@@ -8,7 +8,7 @@
         <array>
           <dict>
             <key>url</key>
-            <string>https://www.dropbox.com/scl/fi/hnn627p21gaftlox41fsr/ESign_5.0.2_1742544243.ipa?rlkey=noxisx7jwnoblle48j8gf8dgw&st=aptlxvba&dl=1</string> <!-- Dropboxの正しいURL -->
+            <string>https://raw.githubusercontent.com/calcsupv/app/main/ESign_5.0.2_1742544243.ipa</string> <!-- GitHubのrawリンク -->
             <key>kind</key>
             <string>software-package</string>
           </dict>
